@@ -1,5 +1,5 @@
 create DATABASE utenti;
-use DATABASE utenti;
+use utenti;
 
 CREATE TABLE login 
 ( Nome VARCHAR(256) NOT NULL ,
